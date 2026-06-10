@@ -1,4 +1,4 @@
-# 
+# Nativo Bumblebee extensões. Com indexação de dados e suporte comunitário — otimizado para máximo desempenho e eficiência.
 
 
 
